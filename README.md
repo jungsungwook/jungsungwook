@@ -4,7 +4,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/AWS-232f32?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Docker-24962D?style=flat-square&logo=Docker&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/C#-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/IFTTT-000000?style=flat-square&logo=IFTTT&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
