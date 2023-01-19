@@ -60,7 +60,7 @@
     <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=flat-square&logo=Amazon SQS&logoColor=white"/></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Amazon Lambda-FF9900?style=flat-square&logo=Amazon Lambda&logoColor=white"/></a>
+    <a target="_blank"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/></a>
     
 
 </p>
