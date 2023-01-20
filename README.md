@@ -37,6 +37,7 @@
     <a target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
     <a target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=Puppeteer&logoColor=black"/></a>
+    <a target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 
 - **Development Environment**:
   
