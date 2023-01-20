@@ -4,11 +4,12 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> About me
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
+<picture> <img align="right" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47u7qekumeemovc0tij9jlnj65oacwh6tdn7shzk1y&rid=giphy.gif&ct=g" width = 250px></picture>
 <br>
 <div align="left">
-  안녕하세요. 백엔드 개발자 정성욱입니다.<br>
-  2016년 고등학생 당시 게임개발을 시작으로, 지금까지 개발에 몰두하고 있습니다.<br>
+  안녕하세요.<br>백엔드 개발자 정성욱입니다.<br>
+  2016년 고등학생 당시 게임개발을 시작으로, 현재까지 개발에 몰두하고 있습니다.<br>
   <br>
   저는 지금 IT병역특례 산업기능요원으로 복무중이며,<br>
   서버 운영·관리 및 RPA 프로그래밍 업무와 사이드 프로젝트 개발 중 입니다.<br>
@@ -63,6 +64,32 @@
     <a target="_blank"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/></a>
     
 
+</p>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media4.giphy.com/media/s99VUdNNp2kzYJDq4B/giphy.gif?cid=ecf05e4717fu30ruptwcesdy6iw3ceh7l9ghdgo277zgx4gp&rid=giphy.gif&ct=s" width ="50"><b> Activities & Career</b>
+<br>
+<p align="center">
+  
+  - **2017 ~ 2019**
+    - 강남대학교 재학
+    - 전공 멘토링 멘토 및 강의 보조
+    - 학습리더 강연 및 학부 대외 홍보 활동
+    - 학부 동아리( 가상현실 및 인공지능 ) 회장
+    - 소프트웨어학부 제1회 가상현실 컨텐츠 개발 전시회 주최
+  
+  - **2020**
+    - C³coding 송도센터 전임 강사 재직
+    
+  - **2021 ~ 2022**
+    - 백엔드 및 DBA 포지션 재직
+    - 데이터바우처 국가사업 개발참여
+    - OKCASHBAG SE 개발
+
+  - **2023 ~ ing**
+    - 산업기능요원 복무( SI & SM )
+  
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
