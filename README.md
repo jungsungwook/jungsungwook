@@ -88,7 +88,7 @@
     - OKCASHBAG SE 개발
 
   - **2023 ~ ing**
-    - 산업기능요원 복무( SI & SM )
+    - 산업기능요원 복무( SI & SM 및 ERP개발)
   
 </p>
 <br>
