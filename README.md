@@ -4,8 +4,8 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> About me
-<!-- <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture> -->
-<picture> <img align="right" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47u7qekumeemovc0tij9jlnj65oacwh6tdn7shzk1y&rid=giphy.gif&ct=g" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47u7qekumeemovc0tij9jlnj65oacwh6tdn7shzk1y&rid=giphy.gif" width = 250px></picture>
 <br>
 <div align="left">
   안녕하세요.<br>백엔드 개발자 정성욱입니다.<br>
