@@ -98,4 +98,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
   
-![jungsungwook's github stats](https://github-readme-stats.vercel.app/api?username=jungsungwook&show_icons=true&count_private=true)[![jungsungwook's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jungsungwook&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jungsungwook)
+![jungsungwook's github stats](https://github-readme-stats.vercel.app/api?username=jungsungwook&show_icons=true&count_private=true)[![jungsungwook's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jungsungwook&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=C,QML,ShaderLab,Tcl,GLSL,C%2B%2B,Objective-C)](https://github.com/jungsungwook)
