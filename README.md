@@ -34,6 +34,7 @@
   
     <a target="_blank"><img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/></a>
+    <a target="_blank"><img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.Js&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a> 
     <a target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=Puppeteer&logoColor=black"/></a>
