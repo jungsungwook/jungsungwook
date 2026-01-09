@@ -1,11 +1,9 @@
-<div align ="center"> Here is my Portfolio Website ---> https://sungwook.net </div><br />
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&color=auto&height=300&section=header&desc=SungWook's%20GitHub&text=WELCOME&fontSize=60" />
 </div>
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> About me
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+## About me
 <br>
 <div align="left">
   안녕하세요.<br>백엔드 개발자 정성욱입니다.<br>
@@ -25,10 +23,10 @@
 
 - **Languages**:
   
-    <a target="_blank"><img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+    JAVA
 
 - **Library & Framework**:
   
@@ -39,12 +37,13 @@
     <a target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=Puppeteer&logoColor=black"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+    SPRING
 
 - **Development Environment**:
   
     <a target="_blank"><img src="https://img.shields.io/badge/Npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/AWS-232f32?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+    AWS EC2
     <a target="_blank"><img src="https://img.shields.io/badge/ASUS-000000?style=flat-square&logo=ASUS&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   
@@ -61,8 +60,8 @@
     <a target="_blank"><img src="https://img.shields.io/badge/Elastic Search-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
     <a target="_blank"><img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Amazon SQS-FF4F8B?style=flat-square&logo=Amazon SQS&logoColor=white"/></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=AWS Lambda&logoColor=white"/></a>
+    Amazon SQS
+    AWS LAMBDA
     
 
 </p>
@@ -98,6 +97,3 @@
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  
-  
-![jungsungwook's github stats](https://github-readme-stats.vercel.app/api?username=jungsungwook&show_icons=true&count_private=true)[![jungsungwook's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jungsungwook&count_private=true&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&hide=C,QML,ShaderLab,Tcl,GLSL,C%2B%2B,Objective-C)](https://github.com/jungsungwook)
